@@ -27,3 +27,6 @@ Git and Github are incredibly useful to manage your projects and coordinate with
 #### <a name="newrepo"></a>How do I create a new repository?
 #### <a name="conflicts"></a>What should I do if there are conflicts?
 
+## Contributors
+
+- [Usman Mahmood Khan](usmanwardag.github.io)
